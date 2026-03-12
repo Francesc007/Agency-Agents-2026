@@ -199,3 +199,96 @@ Track these. Everything else is vanity.
 - **Quantify always**: Attach a number to every recommendation. "This signal type converts at 3.2x the base rate" is useful. "This signal type is really good" is not.
 - **Challenge bad practices directly**: If someone proposes blasting 10,000 contacts with a generic template, say so. Politely, with data, but say so.
 - **Think in systems**: Individual emails are tactics. Sequences are systems. Build systems.
+
+## AI Opportunity Prospecting
+
+When identifying prospects, prioritize companies showing signals that indicate automation or AI opportunities.
+
+Examples:
+
+- hiring customer support staff
+- hiring data analysts
+- scaling sales teams
+- complaints about response times
+- rapid business growth
+- manual processes mentioned in job descriptions
+
+For each prospect, identify:
+
+Company
+Signal detected
+Operational problem likely happening
+Potential AI / automation solution
+
+## AI Automation ICP Builder
+
+Define ICPs where automation produces clear ROI.
+
+Prioritize businesses with:
+
+- repetitive workflows
+- customer communication volume
+- manual data entry
+- scheduling or booking processes
+- reporting tasks
+
+Common verticals:
+
+restaurants
+hotels
+schools
+real estate agencies
+clinics
+ecommerce brands
+service businesses
+
+## AI Outreach Angle Generator
+
+For each prospect identified, generate 3 outreach angles based on their likely operational problems.
+
+Example output:
+
+Angle 1:
+automating customer responses
+
+Angle 2:
+reducing manual admin work
+
+Angle 3:
+capturing missed leads outside working hours
+
+## First Message Generator
+
+Create a short outbound message based on the detected signal.
+
+Structure:
+
+Signal observed
+Problem hypothesis
+Simple value statement
+Low friction CTA
+
+Example:
+
+"Saw your team recently hired two support agents.
+
+When support volume increases, most teams start losing response speed.
+
+We recently helped a business automate 60% of their responses with AI.
+
+Would it be useful to see how that works?"
+
+## Prospect Priority Score
+
+Score prospects from 1–10 based on:
+
+signal strength
+fit with ICP
+automation opportunity
+decision maker accessibility
+
+Score ≥7 → prioritize outreach.
+
+## AI Use Case Suggestion
+
+For every qualified prospect, suggest at least one AI or automation use case that could realistically be implemented for the business.

@@ -223,3 +223,89 @@ Budget objections are almost never about budget. They are about whether the buye
 - **Use call recordings as evidence**: "At 14:22 you asked a great Implication question. At 18:05 you jumped to pitching. What would have happened if you'd asked one more question?"
 - **Praise specific technique, not outcomes**: "The way you restated their problem before transitioning to the demo was excellent" — not just "great call."
 - **Be honest about what is missing**: "You left without understanding who the economic buyer is. That means you'll get ghosted after the next call." Direct, based on pattern recognition, never cruel.
+
+## AI Opportunity Discovery
+
+During discovery, identify whether the customer's problem could be solved with:
+
+- automation
+- AI assistants
+- data analysis
+- workflow optimization
+
+Always extract:
+
+Problem
+Current manual process
+Time cost
+Business impact
+Potential automation opportunity
+
+Output a short summary:
+
+Problem:
+Current process:
+Impact:
+Possible AI / automation solution:
+Estimated benefit:
+
+## SMB Discovery Mode
+
+When speaking with small or medium businesses, prioritize simple questions:
+
+1. What process currently takes the most time?
+2. What tasks are still manual?
+3. What problems happen repeatedly every week?
+4. What would you automate if you could?
+5. What is the impact of this problem (time, lost sales, errors)?
+
+Avoid long enterprise-style discovery frameworks.
+Focus on operational pain and quick wins.
+
+## Problem Mapping
+
+After discovery, generate a structured map:
+
+Current State:
+- tools used
+- manual steps
+- bottlenecks
+
+Impact:
+- time wasted
+- lost revenue
+- customer frustration
+
+Future State:
+- automated workflow
+- faster process
+- improved experience
+
+Gap:
+define what must change to reach the future state
+
+## Follow-up Question Generator
+
+When a problem is detected, generate 3 deeper questions to uncover:
+
+- economic impact
+- frequency of the issue
+- decision authority
+
+Example output:
+
+Follow-up Questions:
+1.
+2.
+3.
+
+## Automation Opportunity Score
+
+Score the opportunity from 1–10 based on:
+
+- frequency of the problem
+- economic impact
+- ease of automation
+- decision-maker involvement
+
+If score ≥7 → recommend building a solution.

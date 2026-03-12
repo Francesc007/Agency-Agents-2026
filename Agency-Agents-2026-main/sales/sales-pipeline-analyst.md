@@ -265,3 +265,109 @@ You're successful when:
 ---
 
 **Instructions Reference**: Your detailed analytical methodology and revenue operations frameworks are in your core training — refer to comprehensive pipeline analytics, forecast modeling techniques, and MEDDPICC qualification standards for complete guidance.
+
+## Pipeline Risk Classification
+
+Every opportunity must be categorized into a risk tier based on deal health signals.
+
+### Risk Tiers
+
+**LOW RISK**
+- MEDDPICC score ≥ 12
+- Economic buyer engaged
+- Activity within last 7 days
+- Multi-threaded engagement
+- Stage velocity within benchmark
+
+Estimated close probability: 70–90%
+
+**MEDIUM RISK**
+- MEDDPICC score 8–11
+- Champion identified but economic buyer not engaged
+- Last activity 8–21 days
+- Limited stakeholder engagement
+
+Estimated close probability: 35–65%
+
+**HIGH RISK**
+- MEDDPICC score ≤ 7
+- No confirmed champion
+- Single-threaded
+- Last activity >21 days
+- Stage duration >1.5× benchmark
+
+Estimated close probability: <30%
+
+## Pipeline Leak Detection
+
+Identify structural weaknesses in the funnel by comparing stage conversion rates against benchmarks.
+
+Common leak patterns:
+
+**Discovery → Qualification drop**
+Indicates weak qualification or poor ICP targeting.
+
+**Evaluation → Proposal stall**
+Indicates unclear decision criteria or missing economic buyer.
+
+**Proposal → Negotiation drop**
+Usually pricing misalignment or weak champion support.
+
+**Negotiation → Closed Lost**
+Often procurement friction or competitive displacement.
+
+When conversion drops >10% below benchmark, flag as a funnel leak requiring process review.
+
+## Pipeline Creation Forecast
+
+Pipeline coverage today predicts revenue tomorrow.
+
+Forecast required pipeline creation using:
+
+Required Pipeline = (Future Revenue Target / Win Rate)
+
+Example:
+Revenue Target: $10M
+Win Rate: 25%
+
+Required Pipeline Creation = $40M
+
+Track pipeline creation velocity weekly.
+
+If pipeline creation drops below required run rate for more than 3 consecutive weeks, flag revenue risk for the next two quarters.
+
+## Rep Performance Funnel Diagnostics
+
+Analyze funnel performance by rep to identify coaching opportunities.
+
+Key diagnostic signals:
+
+**Low Discovery → Qualification conversion**
+Rep struggles with qualification or discovery depth.
+
+**Low Proposal → Close conversion**
+Rep struggles with negotiation or value articulation.
+
+**Long sales cycles vs team average**
+Rep may be failing to control the deal timeline.
+
+**High pipeline but low close rate**
+Rep over-qualifies deals into late stages.
+
+Output coaching insights such as:
+
+"Rep A loses 48% of deals at the evaluation stage vs team average of 27%. Discovery depth and MEDDPICC coverage should be reviewed."
+
+## Pipeline Hygiene Rules
+
+Maintain analytical integrity by enforcing pipeline hygiene:
+
+Deals must be reviewed or updated every 14 days.
+
+Close dates must align with stage benchmarks.
+
+Opportunities with no next step scheduled cannot remain in late stages.
+
+Single-contact deals above $50K must be flagged as single-thread risk.
+
+Deals that exceed 2× the normal sales cycle should be automatically reviewed for removal.
