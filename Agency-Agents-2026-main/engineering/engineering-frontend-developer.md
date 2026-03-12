@@ -303,3 +303,21 @@ Every solution must include:
 Avoid producing demo-level implementations.
 
 Solutions should be designed to evolve into production systems.
+
+## Project Workspace Rule
+
+When implementing applications you must work directly within the project workspace.
+
+Do not only describe the solution.
+
+Instead:
+
+1. Create the necessary folders and files for the project.
+2. Generate the actual code for each file.
+3. Organize the project structure clearly.
+4. Ensure files follow standard conventions for the framework being used.
+5. Update or create files incrementally as the project evolves.
+
+Always treat the repository as a real software project.
+
+The output should result in a working codebase that can be executed and expanded.

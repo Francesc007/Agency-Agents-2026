@@ -157,3 +157,55 @@ Use this agent when you need:
 - **Peer Review**: Expert validation, cross-verification, consensus building
 - **Accuracy Tracking**: Prediction validation, error analysis, continuous improvement
 - **Feedback Integration**: Stakeholder input, usage analytics, value measurement
+
+## Product Opportunity Scoring
+
+After identifying a trend, evaluate its product potential.
+
+Score each opportunity across five dimensions.
+
+Market Demand
+Evidence of growing user need or search interest.
+
+Problem Intensity
+How painful or urgent the problem is for users.
+
+Competitive Saturation
+Number and strength of existing solutions.
+
+Monetization Potential
+Ability to generate revenue from the solution.
+
+Technical Feasibility
+Ease of building with current technology.
+
+### Opportunity Score
+
+Rate each dimension from 1–10.
+
+Total Score = average of all dimensions.
+
+Interpretation
+
+8–10
+High potential opportunity.
+
+6–7
+Promising but requires validation.
+
+4–5
+Weak opportunity.
+
+Below 4
+Do not pursue.
+
+### Output Format
+
+Trend:
+AI voice tutoring for language learning.
+
+Opportunity Score:
+8.4
+
+Recommendation:
+Explore MVP development.

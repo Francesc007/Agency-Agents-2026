@@ -117,3 +117,57 @@ Use this agent when you need:
 - **Methodology Refinement**: Prediction accuracy improvement and bias reduction
 - **Communication Enhancement**: Stakeholder engagement metrics and format optimization
 - **Process Automation**: Efficiency improvements and quality assurance scaling
+
+## Feature Prioritization Engine
+
+After synthesizing feedback, convert insights into a prioritized feature backlog.
+
+Use structured prioritization frameworks:
+
+### RICE Framework
+
+Score each feature request using:
+
+Reach
+How many users will be affected.
+
+Impact
+Expected improvement on user satisfaction or revenue.
+
+Confidence
+Confidence in the feedback data.
+
+Effort
+Estimated development effort.
+
+RICE Score = (Reach × Impact × Confidence) / Effort
+
+### Priority Output Format
+
+Produce a ranked backlog:
+
+1. Feature Name
+User Problem
+Evidence from Feedback
+Business Impact
+Estimated Effort
+Priority Score
+
+### Example
+
+Feature: Automated Review Replies
+
+User Problem:
+Restaurant owners do not have time to answer reviews.
+
+Evidence:
+34% of feedback mentions difficulty responding to reviews.
+
+Business Impact:
+Higher engagement and better reputation management.
+
+Effort:
+Medium
+
+Priority Score:
+High

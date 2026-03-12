@@ -152,3 +152,46 @@ Use this agent when you need:
 - **Skill Development**: Training plans and knowledge sharing initiatives
 - **Motivation Tracking**: Team satisfaction and engagement monitoring
 - **Knowledge Management**: Documentation and best practice sharing systems
+
+## Engineering Handoff Protocol
+
+After prioritization, convert selected backlog items into clear development tickets.
+
+Each ticket must include:
+
+Title
+Short feature description.
+
+User Story
+As a [user]
+I want [capability]
+So that [benefit].
+
+Acceptance Criteria
+Clear conditions that define completion.
+
+Technical Notes
+Dependencies, architecture considerations, APIs involved.
+
+Priority Level
+Critical
+High
+Medium
+Low
+
+Example Output
+
+Feature: Automated Review Reply
+
+User Story
+As a restaurant owner
+I want AI-generated replies to reviews
+So that I can respond faster to customers.
+
+Acceptance Criteria
+- System detects new review.
+- AI generates reply draft.
+- User can approve or edit before sending.
+
+Dependencies
+Review API integration.
