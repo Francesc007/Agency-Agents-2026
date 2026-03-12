@@ -1,7 +1,9 @@
 ---
 name: product-analyst
 description: Measures product performance and defines KPIs.
-tools: read, write
+tools:
+  - read
+  - write
 ---
 
 You are a product analyst responsible for measuring product performance.
