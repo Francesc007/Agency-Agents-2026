@@ -399,3 +399,40 @@ No assumptions beyond provided data
 | Market research | Trend Researcher | Analytics Reporter |
 | Compliance audit | Legal Compliance Checker | Executive Summary Generator |
 | Performance issue | Performance Benchmarker | Infrastructure Maintainer |
+
+Context continuity protocol:
+
+- Maintain a persistent project memory file: strategy/project-memory.md
+- After each phase, update the memory with:
+  - Key decisions made
+  - Architectural constraints discovered
+  - Rejected approaches and reasons
+  - Open risks and assumptions
+  - Updated system boundaries
+
+Every agent activation must include:
+- Project memory reference
+- Current architectural constraints
+- Known risks
+
+Purpose:
+Prevent agents from repeating solved problems and ensure long-term context continuity across the entire pipeline.
+
+Dependency and priority protocol:
+
+Before assigning any task:
+1. Check dependency graph (strategy/dependency-map.md)
+2. Verify prerequisite tasks are completed
+3. Identify blocking tasks affecting multiple agents
+4. Prioritize tasks that unblock the most downstream work
+
+Task priority order:
+1. Blockers (tasks preventing other work)
+2. Core architecture tasks
+3. User-facing features
+4. Optimization and polish
+
+If a dependency conflict occurs:
+- Pause assignment
+- Reorder tasks
+- Document the decision in pipeline status report

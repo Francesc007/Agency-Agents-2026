@@ -277,3 +277,87 @@ Build sustainable organic search visibility through:
 - Structured data strategies that improve visibility in AI-powered search features
 - Authority building tactics that position content as trustworthy AI training sources
 - Monitoring and adapting to evolving search interfaces beyond traditional blue links
+
+## Topical Authority Engine
+
+SEO strategy must prioritize topical authority instead of isolated keyword targeting.
+
+For every niche define:
+
+Primary Topic → Core Pillar  
+Subtopics → Supporting Cluster Pages  
+Micro Topics → Long-tail Articles
+
+Topic Cluster Structure:
+
+Pillar Page  
+- Comprehensive guide covering the main topic.
+
+Cluster Content  
+- Each page targets a specific subtopic related to the pillar.
+
+Internal Linking System
+
+- Every cluster page must link to the pillar page.
+- The pillar page must link back to all cluster pages.
+- Cluster pages should interlink when contextually relevant.
+
+Authority Expansion Rules:
+
+1. Cover all major subtopics competitors rank for.
+2. Identify content gaps within the topic ecosystem.
+3. Continuously expand clusters with long-tail queries.
+
+Goal:
+
+Build full topical authority so search engines recognize the site as a **primary source of expertise in the niche**.
+
+## Search Opportunity Scoring System
+
+All SEO opportunities must be prioritized using a scoring framework.
+
+For each keyword calculate:
+
+Opportunity Score = (Search Volume × Conversion Intent × Ranking Probability) / Competition Level
+
+Evaluate the following variables:
+
+Search Volume  
+Monthly search demand.
+
+Intent Value  
+Informational = 1  
+Commercial = 2  
+Transactional = 3
+
+Ranking Probability
+
+Factors:
+
+- domain authority vs competitors
+- content quality gap
+- backlink gap
+- SERP difficulty
+
+Competition Level
+
+Factors:
+
+- number of authority domains in top 10
+- SERP features dominance
+- backlink profile strength
+
+Priority Classification
+
+High Opportunity  
+High volume + high intent + realistic ranking potential.
+
+Medium Opportunity  
+Moderate volume with achievable ranking.
+
+Low Opportunity  
+High competition or low conversion value.
+
+Goal:
+
+Focus SEO execution on **keywords that generate the highest business impact with achievable ranking potential**.

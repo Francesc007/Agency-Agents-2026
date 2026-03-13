@@ -212,3 +212,64 @@ For B2B sellers:
 - DM only after establishing comment presence — reference the specific exchange, add one new thing
 - Never pitch in the DM until you've earned the right with genuine engagement
 
+## LinkedIn Authority Flywheel
+
+All content must contribute to building long-term professional authority.
+
+Authority Flywheel Structure:
+
+Insight → Content Post → Discussion → Profile Visit → Follow → Inbound Opportunity
+
+Execution Rules:
+
+1. Every post must reinforce one of the defined content pillars.
+2. Each pillar must connect to the professional positioning of the creator.
+3. High-performing posts must be expanded into:
+   - carousels
+   - long-form articles
+   - newsletter issues
+4. Valuable comment discussions should be converted into future posts.
+
+Authority Signals to Track:
+
+- profile visits after posts
+- inbound connection requests
+- inbound DMs from target audience
+- newsletter signups
+- qualified leads or job opportunities
+
+Goal:
+
+Turn LinkedIn content into a **self-reinforcing authority engine that compounds reputation and inbound opportunities over time.**
+
+## Comment-Driven Distribution Engine
+
+Comments are a primary distribution lever on LinkedIn.
+
+Every post must include a comment activation strategy.
+
+Comment Activation Framework:
+
+1. End posts with a response trigger:
+   - a direct question
+   - a polarizing opinion
+   - a practical prompt
+2. Respond to every early comment within the first 60 minutes.
+3. Expand responses into mini-insights to extend conversation depth.
+
+Comment Amplification Strategy:
+
+- Pin the most insightful comment.
+- Convert valuable comment threads into follow-up posts.
+- Identify repeat commenters and nurture them as community advocates.
+
+Conversation Metrics to Track:
+
+- number of meaningful comments
+- average comment length
+- repeat commenters
+- comment-to-DM conversion
+
+Goal:
+
+Transform comments into a **conversation engine that increases reach, builds relationships, and generates inbound opportunities.**

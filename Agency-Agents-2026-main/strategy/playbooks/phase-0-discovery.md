@@ -176,3 +176,47 @@ Include: Quantified market opportunity, validated user needs, regulatory path, t
 ---
 
 *Phase 0 is complete when the Executive Summary Generator delivers a GO decision with supporting evidence from all six discovery agents.*
+
+## Evidence-Based Decision Rule
+
+All discovery outputs must be **evidence-backed**.
+
+Each claim in any report MUST include:
+
+- Source reference
+- Data point
+- Confidence level (High / Medium / Low)
+
+Format example:
+
+Claim: The market is growing rapidly  
+Evidence: Market CAGR 18.2% (Source: Gartner 2025 report)  
+Confidence: High
+
+Reports containing unsupported claims are considered **invalid inputs for the Executive Summary Generator**.
+
+The Executive Summary Generator must prioritize **quantitative evidence over qualitative opinions**.
+
+## Opportunity Scoring Framework
+
+Before issuing the final GO / NO-GO / PIVOT decision, the Executive Summary Generator must calculate an **Opportunity Score (0–100)** based on four dimensions:
+
+| Dimension | Weight |
+|--------|--------|
+| Market Size & Growth | 30% |
+| User Pain Severity | 30% |
+| Technical Feasibility | 20% |
+| Regulatory Risk | 20% |
+
+Scoring:
+
+0–40 → NO-GO  
+41–65 → PIVOT  
+66–100 → GO
+
+Each dimension must cite the source agent report used to derive the score.
+
+The final Executive Summary must include:
+
+Opportunity Score: [value]  
+Recommended Decision: GO / NO-GO / PIVOT

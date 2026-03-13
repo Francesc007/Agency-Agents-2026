@@ -284,3 +284,30 @@ WHEN task has dependencies:
 ---
 
 *Phase 3 is complete when all sprint tasks pass QA, all API endpoints are validated, performance baselines are met, and no critical bugs remain open.*
+
+## Implementation Standard Protocol
+
+Every developer agent implementing a task MUST deliver output following this structure:
+
+1. Architecture decision (brief explanation of approach)
+2. File structure for the feature/module
+3. Dependencies required
+4. Backend implementation (if applicable)
+5. Frontend implementation (if applicable)
+6. Database schema or migration changes
+7. API endpoints and contracts
+8. Deployment or configuration changes required
+
+If any of these components are relevant to the task and missing, the implementation is considered **incomplete** and must not proceed to QA.
+
+## Production Readiness Enforcement
+
+Before submitting a task to QA, the developer agent MUST verify that the implementation includes:
+
+- Error handling and edge case coverage
+- Logging for debugging and observability
+- Environment configuration support (dev / staging / production)
+- Security considerations (authentication, input validation, secrets handling)
+- Scalability considerations (caching, async processing, rate limits where needed)
+
+If the implementation lacks production readiness elements, the task must be revised before entering the Dev↔QA loop.

@@ -236,3 +236,43 @@ Timeline: 2 days
 ---
 
 *Phase 1 is complete when Studio Producer and Reality Checker both sign off on the Architecture Package.*
+
+## Architecture Decision Record (ADR) Protocol
+
+All major architectural decisions MUST be documented using an ADR format.
+
+Each decision must include:
+
+Decision: What architecture choice was made  
+Context: What problem or constraint required this decision  
+Alternatives Considered: At least 2 other viable approaches  
+Tradeoffs: Pros and cons of the chosen approach  
+Impact: Systems or modules affected
+
+Example:
+
+Decision: Use PostgreSQL instead of MongoDB  
+Context: Need strong relational queries for analytics  
+Alternatives: MongoDB, MySQL  
+Tradeoffs: Better relational integrity vs. less flexible schema  
+Impact: Backend API design and analytics pipelines
+
+All ADRs must be stored in:
+
+docs/architecture-decisions/
+
+## MVP Scope Enforcement Rule
+
+All features defined in the Task List and Sprint Plan must pass the MVP filter.
+
+Each feature must answer:
+
+1. Does this solve a validated user pain point from Phase 0?
+2. Is this required for the first functional version of the product?
+3. Can the product launch without this feature?
+
+If the answer to question 3 is YES, the feature is automatically classified as:
+
+COULD or WON'T (not MVP)
+
+The Sprint Prioritizer must ensure that the **first release plan contains only MUST features** required for the MVP launch.

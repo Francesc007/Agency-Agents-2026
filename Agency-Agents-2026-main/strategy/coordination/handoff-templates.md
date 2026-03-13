@@ -355,3 +355,65 @@ Use during incident response.
 | Moving between phases | Phase Gate Handoff (#5) |
 | End of sprint | Sprint Handoff (#6) |
 | System incident | Incident Handoff (#7) |
+
+## Context Compression Protocol
+
+Before creating any handoff document, the sending agent MUST compress context using this rule:
+
+1. Include ONLY information required for the receiving agent to perform the task.
+2. Summarize previous work in **maximum 5 bullet points**.
+3. Reference files instead of copying large content.
+4. Explicitly state:
+   - what decision has already been made
+   - what decision still needs to be made
+   - what action is expected next.
+
+If context exceeds 300 words, the agent MUST create a **Context Summary section**.
+
+Failure to compress context results in degraded multi-agent coordination.
+
+## Decision-Oriented Handoff Rule
+
+Every handoff MUST clearly state one of the following intent types:
+
+| Intent | Meaning |
+|------|------|
+| BUILD | Receiver must implement something |
+| ANALYZE | Receiver must evaluate or review |
+| DESIGN | Receiver must produce specifications |
+| FIX | Receiver must resolve a specific issue |
+| APPROVE | Receiver must validate and approve |
+
+This intent must appear in the Metadata section as:
+
+**Intent**: [BUILD / ANALYZE / DESIGN / FIX / APPROVE]
+
+Handoffs without a clear intent are considered invalid.
+
+## Orchestrator Coordination Rule
+
+All handoffs must assume that an **Agents Orchestrator** supervises the workflow.
+
+Therefore:
+
+1. Every completed handoff must include a **Next Responsible Agent**.
+2. The Orchestrator must always be able to determine:
+   - current owner of the task
+   - next action
+   - blocking dependencies
+
+If the next responsible agent is unclear, default to:
+
+**Next Responsible Agent**: Agents Orchestrator
+
+## Execution Readiness Check
+
+Before sending a handoff, the sending agent MUST verify:
+
+- [ ] The deliverable is clearly defined
+- [ ] Acceptance criteria are measurable
+- [ ] Required files or artifacts are referenced
+- [ ] Dependencies are explicitly listed
+- [ ] The receiving agent has the capability to perform the task
+
+If any of these checks fail, the handoff must be revised before sending.

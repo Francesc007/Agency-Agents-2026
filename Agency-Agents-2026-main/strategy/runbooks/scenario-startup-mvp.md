@@ -152,3 +152,53 @@ Week 6: Optimize
 | Skipping QA for speed | Evidence Collector runs on EVERY task — no exceptions |
 | Launching without monitoring | Infrastructure Maintainer sets up monitoring in Week 1 |
 | No feedback mechanism | Analytics + feedback collection built into Sprint 1 |
+
+## MVP Feature Lock Protocol
+
+Once Sprint 1 begins, the MVP scope becomes locked.
+
+Rules:
+
+1. Only features classified as **MUST (MoSCoW)** may be implemented.
+2. New feature ideas discovered during development must be added to:
+
+BACKLOG_LATER.md
+
+3. The Sprint Prioritizer is the ONLY agent allowed to modify the backlog.
+
+Emergency scope changes require approval from:
+
+Studio Producer + Senior Project Manager
+
+If a feature does not directly contribute to the core user outcome,
+it must be deferred to the next iteration cycle.
+
+## Startup Validation Metrics Rule
+
+During Week 5–6 (Launch + Optimize), the Analytics Reporter must track
+startup validation metrics, not just technical metrics.
+
+Core validation signals:
+
+| Metric | Target |
+|------|------|
+| Activation Rate | ≥ 30% of new users complete onboarding |
+| Retention Day 7 | ≥ 20% return usage |
+| Core Action Completion | ≥ 40% of users perform main product action |
+| User Feedback Score | ≥ 4/5 average satisfaction |
+
+If two or more metrics fall below threshold:
+
+→ Trigger Product Review
+
+Participants:
+Studio Producer
+Growth Hacker
+Analytics Reporter
+Senior Project Manager
+
+Outcome options:
+
+1. Iterate feature set
+2. Adjust positioning or messaging
+3. Pivot product direction

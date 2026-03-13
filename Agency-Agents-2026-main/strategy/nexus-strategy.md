@@ -1108,3 +1108,58 @@ Use the NEXUS QA Feedback Loop Protocol format
 *From discovery to sustained operations — every agent knows their role, their timing, and their handoff.*
 
 </div>
+
+## NEXUS Knowledge System
+
+Purpose:
+Capture institutional knowledge from every project and make it reusable
+for future NEXUS pipelines.
+
+Knowledge Sources:
+
+| Source | Captured By | Stored Artifact |
+|------|------|------|
+| Post-Launch Metrics | Analytics Reporter | Growth Intelligence Report |
+| User Feedback | Feedback Synthesizer | User Insight Library |
+| Technical Learnings | Backend Architect + DevOps Automator | Engineering Playbook |
+| QA Failures | Evidence Collector + Reality Checker | Failure Pattern Database |
+| Experiment Results | Experiment Tracker | Experiment Registry |
+| Market Trends | Trend Researcher | Market Intelligence Archive |
+
+Storage Structure:
+
+/nexus-knowledge
+   /market-intelligence
+   /growth-experiments
+   /engineering-patterns
+   /qa-failure-patterns
+   /user-insights
+
+Usage Rule:
+
+Before Phase 0 starts, the **Agents Orchestrator must query
+the NEXUS Knowledge Base** for relevant past learnings.
+
+## Autonomous Build Mode
+
+When enabled, developer agents may automatically pull the next task
+from the sprint backlog once QA passes the current task.
+
+Autonomous Loop:
+
+1. Sprint Prioritizer defines backlog
+2. Agents Orchestrator selects next task
+3. Developer Agent implements
+4. Evidence Collector validates
+5. If PASS → next task automatically assigned
+6. If FAIL → retry loop (max 3)
+7. If BLOCKED → escalate to Senior Project Manager
+
+Rules:
+
+- Agents may execute up to 5 consecutive tasks autonomously
+- After 5 tasks → checkpoint review by Senior Project Manager
+- Critical tasks always require human approval
+
+Goal:
+Allow multi-agent systems to build complete features with minimal supervision.

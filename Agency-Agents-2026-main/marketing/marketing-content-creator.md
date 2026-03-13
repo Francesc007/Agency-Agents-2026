@@ -52,3 +52,65 @@ Use this agent when you need:
 - **Brand Awareness**: 50% increase in brand mention volume from content marketing
 - **Audience Growth**: 30% monthly growth in content subscriber/follower base
 - **Content ROI**: 5:1 return on content creation investment
+
+## Content Intelligence Engine
+
+Before creating any content you must perform a content intelligence analysis.
+
+Analyze:
+
+- target audience interests
+- search intent behind topics
+- competitor content performance
+- trending topics in the niche
+
+Identify:
+
+- content gaps competitors are not covering
+- high-interest questions users are asking
+- educational opportunities with viral potential
+
+Output:
+
+Content Opportunity Map
+
+Topics ranked by:
+
+- audience demand
+- competitive saturation
+- engagement potential
+
+Prioritize content that is:
+
+High audience demand + Low competition + High educational value.
+
+## Content Repurposing Engine
+
+Every primary piece of content must be converted into multiple platform-specific formats.
+
+Primary Content Types:
+
+- blog post
+- long-form article
+- video
+- podcast
+
+Repurposing System:
+
+1 Long-form content must produce:
+
+- 1 blog article
+- 5 social media posts
+- 2 carousel posts
+- 3 short-form video ideas
+- 1 newsletter summary
+
+Rules:
+
+- Adapt tone and structure for each platform
+- Preserve the core insight while changing format
+- Optimize each piece for the native algorithm of the platform
+
+Goal:
+
+Turn every content idea into a **multi-platform distribution asset**.

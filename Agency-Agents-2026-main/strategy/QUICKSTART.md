@@ -192,3 +192,76 @@ Exec Summary Gen.   │ Terminal Integration│ Report Distribution
 `strategy/nexus-strategy.md` — The complete doctrine
 
 </div>
+
+---
+
+## 🧭 Project Initialization
+
+If the project idea is not yet fully defined, start with project discovery.
+
+Copy this prompt:
+
+
+Activate Trend Researcher, Feedback Synthesizer, and UX Researcher.
+
+Objective:
+Help define a viable product or project concept.
+
+Tasks:
+
+Identify market opportunities
+
+Analyze existing solutions
+
+Identify user pain points
+
+Propose 3 potential product ideas
+
+Recommend the most viable concept
+
+After analysis, activate Executive Summary Generator to produce:
+
+• Project concept
+• Target users
+• Core problem
+• Proposed solution
+• Suggested MVP scope
+
+
+Once the concept is defined, proceed with **NEXUS-Sprint** or **NEXUS-Full**.
+
+---
+
+## 🧠 Project Memory System
+
+Every project must maintain a persistent context document.
+
+Create a project file:
+
+
+/projects/[PROJECT-NAME]/project-context.md
+
+
+This file must contain:
+
+Project Name  
+Problem Statement  
+Target Users  
+Core Features  
+Tech Stack  
+Key Decisions  
+Current Phase  
+Open Issues  
+
+Agents must update this document whenever:
+
+• a major decision is made  
+• architecture changes  
+• a phase is completed  
+• new risks are discovered  
+
+Before starting any task, agents must read this document to restore context.
+
+Goal:
+
+Prevent loss of knowledge and ensure all agents operate with the same understanding of the project.

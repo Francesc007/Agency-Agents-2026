@@ -275,3 +275,51 @@ ACTIVATE Executive Summary Generator:
 ---
 
 *Phase 5 is complete when the product is deployed, systems are stable for 48+ hours, growth channels are active, and the feedback loop is operational.*
+
+## Launch Metrics Command Framework
+
+All launch monitoring must focus on **core launch KPIs**, not vanity metrics.
+
+The Analytics Reporter must track and publish every 2 hours during launch day:
+
+| Metric | Definition |
+|------|------|
+| Activation Rate | % of new users completing onboarding |
+| Conversion Rate | % of visitors becoming users |
+| K-Factor | Viral coefficient from referrals |
+| CAC by Channel | Cost per acquisition for each channel |
+| Retention Day 1 | % of users returning within 24h |
+| Error Rate | % of failed requests |
+
+Launch thresholds:
+
+Activation Rate < 25% → Investigate onboarding  
+Conversion Rate < 3% → Review landing funnel  
+Error Rate > 1% → Immediate engineering escalation
+
+The launch dashboard must highlight **metrics requiring action**, not just report numbers.
+
+## Rapid Growth Experiment Protocol
+
+During T+1 to T+14, the Growth Hacker and Experiment Tracker must run structured experiments.
+
+Rules:
+
+1. At least **3 concurrent growth experiments** must run at all times.
+2. Each experiment must define:
+   - Hypothesis
+   - Expected impact metric
+   - Success threshold
+3. Experiments must conclude within **7 days maximum**.
+
+Experiment format:
+
+Hypothesis: Simplifying onboarding increases activation  
+Metric: Activation Rate  
+Success Threshold: +10% improvement  
+Test Duration: 5 days
+
+Winning experiments must immediately be:
+- Rolled out to production
+- Documented in the Growth Playbook
+- Prioritized for scaling.

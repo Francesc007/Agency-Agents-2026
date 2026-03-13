@@ -1,0 +1,210 @@
+# AI Agency System
+
+This repository contains a structured AI agent system designed to simulate the workflow of a modern digital product company.
+
+The system organizes agents into departments that mirror real-world business functions such as strategy, product development, engineering, and marketing.
+
+The goal is to transform ideas into validated products using coordinated AI agents.
+
+---
+
+# System Architecture
+
+Agents are organized into functional departments.
+
+Each department represents a core capability required to design, build, and launch digital products.
+
+Core departments:
+
+- strategy
+- product
+- design
+- engineering
+- marketing
+- project-management
+
+Supporting departments:
+
+- sales
+- paid-media
+- testing
+- integrations
+- support
+
+Specialized areas:
+
+- game-development
+- spatial-computing
+- specialized
+
+---
+
+# Core Workflow
+
+Every project should follow the same structured pipeline.
+
+1. Strategy
+2. Product
+3. Design
+4. Engineering
+5. Testing
+6. Marketing
+7. Sales
+8. Support
+
+Each phase generates artifacts used by the next phase.
+
+Skipping phases increases project risk.
+
+---
+
+# Department Responsibilities
+
+## Strategy
+
+Purpose:
+Understand markets and define opportunities.
+
+Key outputs:
+
+- Market analysis
+- Problem definition
+- Competitive landscape
+- Value proposition
+
+Coordinator:
+Strategy Orchestrator
+
+---
+
+## Product
+
+Purpose:
+Translate strategy into product requirements.
+
+Outputs:
+
+- product vision
+- feature specifications
+- product roadmap
+- sprint backlog
+
+Coordinator:
+Product Orchestrator
+
+---
+
+## Design
+
+Purpose:
+Transform product requirements into user experience and interfaces.
+
+Outputs:
+
+- UX flows
+- wireframes
+- design systems
+- UI specifications
+
+Coordinator:
+Design Orchestrator
+
+---
+
+## Engineering
+
+Purpose:
+Implement the product using software architecture and development practices.
+
+Outputs:
+
+- system architecture
+- backend services
+- frontend interfaces
+- database schema
+- infrastructure configuration
+
+Coordinator:
+Engineering Orchestrator
+
+---
+
+## Testing
+
+Purpose:
+Ensure product reliability and quality.
+
+Outputs:
+
+- QA reports
+- bug tracking
+- release validation
+
+Coordinator:
+QA Orchestrator
+
+---
+
+## Marketing
+
+Purpose:
+Drive product adoption and customer acquisition.
+
+Outputs:
+
+- marketing strategy
+- acquisition channels
+- content campaigns
+- growth experiments
+
+Coordinator:
+Marketing Orchestrator
+
+---
+
+## Sales
+
+Purpose:
+Convert leads into customers.
+
+Outputs:
+
+- sales messaging
+- pricing strategy
+- offer structure
+
+Coordinator:
+Sales Strategist
+
+---
+
+## Support
+
+Purpose:
+Maintain customer satisfaction and operational continuity.
+
+Outputs:
+
+- support documentation
+- issue tracking
+- feedback analysis
+
+Coordinator:
+Support Manager
+
+---
+
+# How to Start a Project
+
+When starting a new project, instruct the AI system to review this repository and activate relevant departments.
+
+Example:
+
+"Use the AI Agency System to plan and build an MVP for [project idea]."
+
+The system should:
+
+1. activate the Strategy department
+2. generate a strategy report
+3. pass results to Product
+4. proceed through the workflow

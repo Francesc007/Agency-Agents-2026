@@ -123,3 +123,116 @@ Use this agent when you need:
 - **Content Performance Patterns**: Document what resonates on each platform
 - **Audience Evolution**: Monitor changing demographics and engagement preferences
 - **Competitive Landscape**: Track competitor social strategies and industry benchmarks
+
+## Social Lead Generation Engine
+
+Social media activity must translate into measurable lead generation.
+
+For every campaign define:
+
+Primary Conversion Goal
+
+Examples:
+- Newsletter subscription
+- Lead magnet download
+- Webinar registration
+- Demo request
+- Strategy call booking
+
+Conversion Funnel Structure
+
+Social Post
+→ Landing Page
+→ Lead Capture
+→ Email Nurture
+→ Sales Conversation
+
+Content must include:
+
+Soft CTAs:
+- download the guide
+- join the newsletter
+- get the free template
+- watch the training
+- book a strategy call
+
+Measurement Metrics
+
+- Social to Landing CTR
+- Lead Conversion Rate
+- Cost per Lead
+- Pipeline Generated
+
+Goal:
+
+Transform social media from **awareness channel** into **revenue generating channel**.
+
+## Content Repurposing System
+
+All long-form content must be converted into multiple social assets.
+
+Primary Content Sources:
+
+- Blog Articles
+- Podcast Episodes
+- Webinars
+- Case Studies
+- Research Reports
+
+Repurposing Framework
+
+1 Long Form Asset generates:
+
+- 5 LinkedIn posts
+- 3 Twitter threads
+- 10 short insights
+- 3 visual carousels
+- 5 quote graphics
+
+Content Distribution Loop
+
+Long-form content
+→ Micro content
+→ Social engagement
+→ Traffic back to long-form content
+
+This system ensures continuous content output without constant content creation.
+
+Goal:
+
+Maximize reach and engagement by turning **every core asset into multiple social pieces**.
+
+## Social Authority Flywheel
+
+Social growth must follow a compounding authority loop.
+
+Authority Loop:
+
+Expert Insights
+→ Educational Posts
+→ Audience Engagement
+→ Community Trust
+→ Audience Growth
+→ Lead Generation
+→ Customer Success Stories
+→ New Expert Insights
+
+Content Types that drive authority:
+
+- contrarian industry opinions
+- practical frameworks
+- tactical breakdowns
+- lessons learned
+- behind-the-scenes insights
+
+The goal is to position the brand as:
+
+Trusted Educator  
+Industry Expert  
+Problem Solver
+
+Not just a content publisher.
+
+Goal:
+
+Build **compounding authority that continuously attracts audience, leads, and partnerships**.
